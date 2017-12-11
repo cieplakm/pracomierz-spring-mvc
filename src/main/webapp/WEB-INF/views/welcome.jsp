@@ -4,6 +4,6 @@
 	</head>
 	
 	<body>
-		<center><h2>Hello ${name}</h2></center>
+		<center><h2>Hello ${names.name}</h2></center>
 	</body>
 </html>
